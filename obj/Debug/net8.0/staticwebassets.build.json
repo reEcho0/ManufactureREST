@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aeEcULSZhtxLzUj31wnbRXyNRXpjE5BSKZ9vUOoZE2Y=",
+  "Source": "BookRESTapi",
+  "BasePath": "_content/BookRESTapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
